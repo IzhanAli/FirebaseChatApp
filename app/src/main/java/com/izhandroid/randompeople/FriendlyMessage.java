@@ -1,4 +1,4 @@
-package com.izhanroid.randompeople;
+package com.izhandroid.randompeople;
 
 public class FriendlyMessage {
     private String text;

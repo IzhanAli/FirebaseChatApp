@@ -1,4 +1,4 @@
-package com.izhanroid.randompeople;
+package com.izhandroid.randompeople;
 
 import org.junit.Test;
 

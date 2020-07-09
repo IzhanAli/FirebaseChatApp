@@ -1,4 +1,4 @@
-package com.izhanroid.randompeople;
+package com.izhandroid.randompeople;
 
 import android.app.Activity;
 import android.content.Context;

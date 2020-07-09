@@ -1,4 +1,4 @@
-package com.izhanroid.randompeople;
+package com.izhandroid.randompeople;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.izhanroid.randompeople", appContext.getPackageName());
+        assertEquals("com.izhandroid.randompeople", appContext.getPackageName());
     }
 }
